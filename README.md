@@ -5,7 +5,7 @@ This is a machine learning project built using a convolutional neural network (C
 
 ## screenshot
 <img width="957" alt="Screenshot 2025-06-05 115745" src="https://github.com/user-attachments/assets/587b4573-7603-48e8-adcf-4d98c38eac32" />
-<img width="955" alt="Screenshot 2025-06-05 143218" src="https://github.com/user-attachments/assets/e68d4896-90b1-43d6-b887-cd87b092c2fa" />
+<img width="960" alt="Screenshot 2025-06-05 143916" src="https://github.com/user-attachments/assets/3d21356a-54ee-4ae8-8158-44e74f50b94b" />
 <img width="960" alt="Screenshot 2025-06-05 143357" src="https://github.com/user-attachments/assets/29ea72a3-0b4c-4a02-85eb-a4b104447429" />
 
 
